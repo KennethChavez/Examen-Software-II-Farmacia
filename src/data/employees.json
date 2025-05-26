@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Kenneth Rodríguez",
+      "role": "Administrador",
+      "username": "kenneth",
+      "passwordHash": "$2a$10$Xn3nZ7uO3TL8TJjC7XfEr.3Qb0jJQrAP9uO5n2j8J9vO5nZ7uO3TL"
+    },
+    {
+      "id": 2,
+      "name": "Mario Nones",
+      "role": "Farmacéutico",
+      "username": "marionones",
+      "passwordHash": "$2a$10$Xn3nZ7uO3TL8TJjC7XfEr.3Qb0jJQrAP9uO5n2j8J9vO5nZ7uO3TL"
+    },
+    {
+      "id": 3,
+      "name": "Richard Espinoza",
+      "role": "Farmacéutico",
+      "username": "richard",
+      "passwordHash": "$2a$10$Xn3nZ7uO3TL8TJjC7XfEr.3Qb0jJQrAP9uO5n2j8J9vO5nZ7uO3TL"
+    },
+    {
+      "id": 4,
+      "name": "Juan Méndez",
+      "role": "Asistente",
+      "username": "juan",
+      "passwordHash": "$2a$10$Xn3nZ7uO3TL8TJjC7XfEr.3Qb0jJQrAP9uO5n2j8J9vO5nZ7uO3TL"
+    },
+    {
+      "id": 5,
+      "name": "María López",
+      "role": "Asistente",
+      "username": "maria",
+      "passwordHash": "$2a$10$Xn3nZ7uO3TL8TJjC7XfEr.3Qb0jJQrAP9uO5n2j8J9vO5nZ7uO3TL"
+    },
+    {
+      "id": 6,
+      "name": "Leonardo Pérez",
+      "role": "Asistente",
+      "username": "leo",
+      "passwordHash": "$2a$10$Xn3nZ7uO3TL8TJjC7XfEr.3Qb0jJQrAP9uO5n2j8J9vO5nZ7uO3TL"
+    }
+  ]
+}

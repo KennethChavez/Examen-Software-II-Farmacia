@@ -1,0 +1,53 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "MarioNones",
+      "phone": "9999-8888",
+      "address": "Col. Kennedy, Tegucigalpa",
+      "email": "marionones@ceutec.edu.hn"
+    },
+    {
+      "id": 2,
+      "name": "Kenneth",
+      "phone": "9999-7777",
+      "address": "Col. Miraflores, Tegucigalpa",
+      "email": "kenneth@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Andrea",
+      "phone": "9999-6666",
+      "address": "Col. Palmira, Tegucigalpa",
+      "email": "andrea@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Samanta",
+      "phone": "9999-5555",
+      "address": "Col. Tepeyac, Tegucigalpa",
+      "email": "samanta@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Natalia",
+      "phone": "9999-4444",
+      "address": "Col. Loarque, Tegucigalpa",
+      "email": "natalia@email.com"
+    },
+    {
+      "id": 6,
+      "name": "Adrian",
+      "phone": "9999-3333",
+      "address": "Col. América, Tegucigalpa",
+      "email": "adrian@email.com"
+    },
+    {
+      "id": 7,
+      "name": "Diana",
+      "phone": "9999-2222",
+      "address": "Col. Hato, Tegucigalpa",
+      "email": "diana@email.com"
+    }
+  ]
+}

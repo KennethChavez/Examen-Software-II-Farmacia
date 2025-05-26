@@ -1,0 +1,84 @@
+{
+  "medications": [
+    {
+      "id": 1,
+      "name": "Paracetamol 500mg",
+      "description": "Analgésico y antipirético para el alivio del dolor y la fiebre",
+      "category": "Analgésicos",
+      "price": 5.75,
+      "stock": 5,
+      "minStock": 10,
+      "expiryDate": "2025-06-15"
+    },
+    {
+      "id": 2,
+      "name": "Amoxicilina 250mg",
+      "description": "Antibiótico de amplio espectro para infecciones bacterianas",
+      "category": "Antibióticos",
+      "price": 12.50,
+      "stock": 8,
+      "minStock": 15,
+      "expiryDate": "2025-01-20"
+    },
+    {
+      "id": 3,
+      "name": "Ibuprofeno 400mg",
+      "description": "Antiinflamatorio no esteroideo para dolor e inflamación",
+      "category": "Antiinflamatorios",
+      "price": 7.25,
+      "stock": 6,
+      "minStock": 12,
+      "expiryDate": "2025-08-10"
+    },
+    {
+      "id": 4,
+      "name": "Loratadina 10mg",
+      "description": "Antihistamínico para alivio de síntomas de alergia",
+      "category": "Antialérgicos",
+      "price": 8.90,
+      "stock": 7,
+      "minStock": 10,
+      "expiryDate": "2025-04-30"
+    },
+    {
+      "id": 5,
+      "name": "Omeprazol 20mg",
+      "description": "Inhibidor de la bomba de protones para problemas gástricos",
+      "category": "Gastrointestinales",
+      "price": 14.75,
+      "stock": 18,
+      "minStock": 10,
+      "expiryDate": "2025-09-25"
+    },
+    {
+      "id": 6,
+      "name": "Losartán 50mg",
+      "description": "Antihipertensivo para el control de la presión arterial",
+      "category": "Cardiovasculares",
+      "price": 18.50,
+      "stock": 25,
+      "minStock": 15,
+      "expiryDate": "2025-07-18"
+    },
+    {
+      "id": 7,
+      "name": "Metformina 850mg",
+      "description": "Antidiabético oral para control de glucosa en sangre",
+      "category": "Antidiabéticos",
+      "price": 9.80,
+      "stock": 32,
+      "minStock": 20,
+      "expiryDate": "2025-05-12"
+    },
+    {
+      "id": 8,
+      "name": "Atorvastatina 20mg",
+      "description": "Estatina para reducir el colesterol en sangre",
+      "category": "Cardiovasculares",
+      "price": 22.50,
+      "stock": 15,
+      "minStock": 10,
+      "expiryDate": "2025-03-28"
+    }
+  ]
+}
